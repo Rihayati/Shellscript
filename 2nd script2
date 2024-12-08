@@ -1,0 +1,11 @@
+Welcome to Cloud Shell! Type 'help' to get started. 
+To set your Cloud Platform project in this session use "geloud config set project 
+rihayati1905@cloudshell:"$ nano latihani.sh 
+rihayati1905@cloudshell:"$ cat latihani.sh 
+#!/bin/bash 
+echo 'buat direktori latihanskript dan file coba' 
+echo '=========================================='
+mkdir 
+latihanscript cd
+latihanscript/ 
+touch coba
