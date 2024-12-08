@@ -1,0 +1,13 @@
+rihayati1905@cloudshell:"$ nano latihan4.sh 
+rihayati1905@cloudshell:"$ cat latihan4.sh 
+#!/bin/bas 
+echo "script untuk menerima input, penjumlahan dan perkalian" 
+echo "======================================================"
+echo "13:" 
+read x 
+echo "7:" 
+read y
+jmlh` expr tx + ty 
+kali=` expr tx * ty
+echo "hasil penjumlahan tx ty = jmlh" 
+echo "hasil perkalian txty kali"
